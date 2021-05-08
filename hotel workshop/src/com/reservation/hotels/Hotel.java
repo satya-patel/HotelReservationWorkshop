@@ -1,8 +1,8 @@
-package com.fakehotel.reservation.hotels;
+package com.reservation.hotels;
 
-import com.fakehotel.reservation.CustomerType;
-import com.fakehotel.reservation.RateType;
-import com.fakehotel.reservation.ReservationRequest;
+import com.reservation.CustomerType;
+import com.reservation.RateType;
+import com.reservation.ReservationRequest;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
